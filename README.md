@@ -33,7 +33,7 @@ This project aims to develop a Thai food recipe multiple-choice question (MCQ) d
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/thai-food-recipe-mcq-dataset.git
+    git clone https://github.com/Sippaphat/SCB10X_Assignment2.git thai-food-recipe-mcq-dataset
     cd thai-food-recipe-mcq-dataset
     ```
 2. Create and activate a virtual environment:
@@ -43,12 +43,12 @@ This project aims to develop a Thai food recipe multiple-choice question (MCQ) d
     ```
 3. Install the required libraries:
     ```bash
-    pip install -r requirements.txt
+    pip install -r req.txt
     ```
 4. Set up your environment variables:
     - Create a `.env` file in the project root directory and add your OpenAI API Key:
       ```plaintext
-      Typhoon_API_KEY=your_openai_api_key
+      Typhoon_API_KEY=your__api_key
       ```
 
 ## Usage
