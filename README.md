@@ -54,7 +54,7 @@ This project aims to develop a Thai food recipe multiple-choice question (MCQ) d
 ## Usage
 1. Run the main script to fetch recipe data and generate the MCQ dataset:
     ```bash
-    python main.py
+    python Scrape_script.py
     ```
 2. The generated MCQ dataset will be saved as `exam_gen_data_test.jsonl` in the project directory.
 
