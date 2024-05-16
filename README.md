@@ -86,9 +86,6 @@ Contributions are welcome! Please follow these steps:
 4. Push your changes to the branch.
 5. Create a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - Special thanks to the authors of `trafilatura` and `jsonlines` for their excellent libraries.
 - Thanks to [wongnai](https://www.wongnai.com/) and [แบบทดสอบรายวิชาการประกอบอาหารไทย ง 30230 ม.4](https://krupaga.wordpress.com/category/แบบทดสอบรายวิชาการประก/) for providing authentic Thai recipes used in this project.
